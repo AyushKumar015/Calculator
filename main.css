@@ -1,0 +1,105 @@
+
+
+.main-container
+{
+    border: 5px solid black;
+    width: 24%;
+    height: 40%;
+    align-items: center;
+    border-radius: 50px;
+    background-color: black;
+}
+
+button
+{
+    border-radius: 200px;
+    display: inline-block;
+    background-color: rgb(62, 62, 62);
+    font-size: 22px;
+    color: white;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    gap: 20px;
+}
+
+.zero{
+    width: 140px;
+    display: flex;
+    justify-content: left;
+    padding: 20px 20px;
+}
+
+.line-1
+{
+    display: flex;
+    justify-content: center;
+    padding: 5px 5px;
+    gap: 20px;
+}
+
+
+.screen
+{
+    
+    padding: 5px 5px;
+    margin: 10px 10px;
+    display: flex;
+    justify-content: center;
+    width: 85%;
+    
+}
+
+.m-screen{
+    display: flex;
+    justify-content: center;
+    padding: 20px 20px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+
+.base{
+    display: flex;
+    justify-content: center;
+
+}
+
+.calculator{
+    padding: 20px 20px;
+}
+
+
+/* input{
+    width: 300px;
+    height: 40px;
+    border: 2px solid black;
+} 
+*/
+
+
+.y{
+    background-color: orange;
+}
+
+
+input
+{
+    width: 500px;
+    height: 70px;
+    font-size: 150%;
+    background-color: black;
+    color: white;
+}
+
+
+.grey
+{
+    background-color: rgb(138, 136, 136);
+}
+
+
+
