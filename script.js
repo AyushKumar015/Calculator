@@ -1,3 +1,4 @@
+
 // calculator
 
 let a = document.getElementById("display");
@@ -16,6 +17,7 @@ function call(value)
     else
     a.value += value;
 }
+
 
 
 
